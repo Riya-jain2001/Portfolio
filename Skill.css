@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    
+    background-color: rgb(113, 65, 158);
+}
+
+.h{
+    color: antiquewhite;
+    margin-top: 3vh;
+    margin-left: 3vw;
+}
+.py{
+    display: inline-flex;
+    margin-left: 15vw;
+}
+.java{
+    
+    display: inline-flex;
+    margin-left: 5vw;
+    margin-top: 25vh;
+}
+.c{display: inline-flex;
+    margin-left: 5vw;
+}
+.html{display: inline-block;
+    margin-left: 5vw;}
+
+
+.css{
+    display: inline-flex;
+    margin-left: 28vw;
+    margin-top: 5vh;
+    
+}
+.js{display: inline-flex;
+    margin-top:2vh;
+    margin-left: 10vw;} 

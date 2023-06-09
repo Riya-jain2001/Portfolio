@@ -1,0 +1,36 @@
+*{
+    
+    background-color: rgb(113, 65, 158);
+}
+.contact{
+    color: aliceblue;
+    margin-left: 2vw;
+    margin-top: 3vh;
+}
+.form{
+    margin-top: 10vh;
+    display: inline-flex;
+    
+    margin-left: 25vw;
+    font-size: 22px;
+    color: aliceblue; 
+}
+.info{
+    width:30vw;
+   
+}
+.text{
+    margin-top: 10vh;
+    
+   
+    width: 20vh;
+    margin-left: 5vw;
+    font-size: 22px;
+    color: aliceblue;
+    
+
+}
+.inp{
+    color: aliceblue;
+    font-size: 22px;
+}
